@@ -29,7 +29,7 @@ int main(void){
 	printf("%d",a);
 	return 0;
 }
-#python
+# python
 def solution():
     N=int(input())
     num=list(map(int,input().split()))
